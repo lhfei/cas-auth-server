@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CAS Overlay Template
 ============================
 
@@ -99,3 +100,6 @@ Invokes the CAS Command Line Shell. For a list of commands either use no argumen
 ./build.sh cli
 ```
 >>>>>>> alpha-0.1
+=======
+# cas-auth-server
+>>>>>>> 9a9749153f095bc66716a83b008a3736a9d5be9c
